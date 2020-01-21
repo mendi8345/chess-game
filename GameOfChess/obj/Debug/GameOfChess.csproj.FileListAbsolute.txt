@@ -1,0 +1,7 @@
+C:\Users\hackeru\source\repos\GameOfChess\obj\Debug\GameOfChess.csprojAssemblyReference.cache
+C:\Users\hackeru\source\repos\GameOfChess\obj\Debug\GameOfChess.csproj.CoreCompileInputs.cache
+C:\Users\hackeru\source\repos\GameOfChess\bin\Debug\GameOfChess.exe.config
+C:\Users\hackeru\source\repos\GameOfChess\bin\Debug\GameOfChess.exe
+C:\Users\hackeru\source\repos\GameOfChess\bin\Debug\GameOfChess.pdb
+C:\Users\hackeru\source\repos\GameOfChess\obj\Debug\GameOfChess.exe
+C:\Users\hackeru\source\repos\GameOfChess\obj\Debug\GameOfChess.pdb
